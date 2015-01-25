@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2238805918">
+    <data-source source="LOCAL" name="GrailsTest dev" uuid="d40f96d4-87da-4b87-a5ec-b48ddb96be64">
+      <driver-ref>oracle</driver-ref>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:h2:mem:devDb;MVCC=TRUE;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE</jdbc-url>
+      <user-name>stpt</user-name>
+      <user-password>dfd9dfc2dfd9dfdedfdadfde</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
